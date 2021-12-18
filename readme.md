@@ -1,3 +1,3 @@
 # Expense Tracker Application
-
-Built an expense-tracker-app using mern stack 😁
+Deployed Version
+Live demo (Feel free to visit) 👉 : https://expense-tracker-prj.herokuapp.com/
